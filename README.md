@@ -1,4 +1,4 @@
-# JungleJangleSampleCode
+# Jungle Jangle Sample Code
 Sample code from JungleJangle. More code available upon request from prospective employers.
 
 ## About JungleJangle
